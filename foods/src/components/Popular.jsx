@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import axios from "axios";
+
 const Popular = () => {
 
   useEffect(() => {
@@ -8,7 +8,7 @@ const Popular = () => {
   
 
   const getPopuler = async () => {
-    const api = await 
+    
   }
 
   return (
